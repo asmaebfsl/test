@@ -1,0 +1,6 @@
+{
+  "name": "DesInventar Disaster Records",
+  "description": "Subnational disaster event data from Latin America, Asia and Africa",
+  "url": "https://desinventar.net/data.csv",
+  "keywords": ["desinventar", "subnational", "disaster", "earthquake", "flood"]
+}

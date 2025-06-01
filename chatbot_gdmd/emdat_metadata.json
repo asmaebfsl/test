@@ -1,0 +1,6 @@
+{
+  "name": "EM-DAT Disaster Dataset",
+  "description": "Worldwide disaster records",
+  "url": "https://public.emdat.be/data.csv",
+  "keywords": ["emdat", "disaster", "earthquake", "flood"]
+}
